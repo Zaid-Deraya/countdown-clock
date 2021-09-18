@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(90deg, rgb(94, 14, 18) 20%, rgb(31, 16, 70) 90%);
+    background-image: linear-gradient(90deg, rgb(133, 207, 139) 10%, rgb(12, 11, 122) 90%);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: flex;
     flex-direction: column;
@@ -12,9 +12,9 @@ body{
 h1{
     text-align: center;
     font-weight: bolder;
-    font-size: 50px;
+    font-size: 70px;
     margin: 100px 0px 90px;
-    color: blanchedalmond;
+    color: rgb(233, 230, 87);
 }
 
 .cdc{
@@ -54,7 +54,7 @@ h1{
 }
 
 .days {
-    color: rgb(154, 210, 255);
+    color: rgb(132, 187, 238);
     
 }
 
