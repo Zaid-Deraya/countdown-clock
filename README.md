@@ -1,11 +1,11 @@
 # countdown-clock
 ## Hi, I'm Zaid Deraya :wave:
 # Countdown timer
-This is my first webapp which created using HTML,CSS and JAVASCRIPT. 
+This is my first webapp which is created using HTML,CSS and JAVASCRIPT. 
 ## Specific Features
 - Based on HTML, CSS and JS
 - Live clock
-- I have used js for functionig countdown clock.
+- I have used javascript to function countdown clock.
 
 ## Authors
 - Zaid Deraya
