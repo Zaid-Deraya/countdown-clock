@@ -36,6 +36,11 @@ h1{
     margin: 0 0 5px;
 }
 
+.remain {
+    margin-top: 100px;
+    color: rgb(204, 28, 37);
+}
+
 @media (max-width: 500px) {
     h1 {
         font-size: 45px;
