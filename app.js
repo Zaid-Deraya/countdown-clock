@@ -7,6 +7,8 @@ const currentYear = new Date().getFullYear();
 
 const myTime = new Date(`October 1 ${currentYear} 00:00:00`);
 
+document.getElementById('end').innerHTML = myTime;
+
 function updateCountDown() {
     const currentTime = new Date();
     const diff = myTime - currentTime;
