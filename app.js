@@ -20,7 +20,7 @@ function updateCountDown() {
     hours.innerHTML = h < 10 ? '0' + h: h;
     minutes.innerHTML = m < 10 ? '0' + m: m;
     seconds.innerHTML = s < 10 ? '0' + s: s;
-    document.getElementById('end').innerHTML = "This will end on"+" "+myTime;
+    document.getElementById('end').innerHTML = "Countdown ends on"+" "+myTime;
 
 }
 
